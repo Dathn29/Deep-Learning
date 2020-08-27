@@ -31,7 +31,7 @@ Hàm loss có dạng cross-entropy
 
 -	Ảnh bên dưới sẽ là ví dụ để tìm ra các công thức này
 
-![7.png](https://github.com/Dathn29/Deep-Learning/blob/master/Backpropagation/img/7.png)
+![12.png](https://github.com/Dathn29/Deep-Learning/blob/master/Backpropagation/img/12.png)
 
 -	Bên trên là công thức tính đạo hàm của Z2 theo hàm loss, những công thức ta cũng chứng minh tương tự sử dụng chain rule
 -	Thay vì sử dụng vòng lặp để tính với mạng NN có nhiều lớp ta sử dụng vector hóa sẽ nhanh hơn rất nhiều.
