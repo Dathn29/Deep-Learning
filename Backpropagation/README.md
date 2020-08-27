@@ -1,1 +1,1 @@
-
+# Backpropagation(Lan truyền ngược)
